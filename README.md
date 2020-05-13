@@ -16,5 +16,8 @@ Level 3 :Divisional secretariat(DS)
 
 Level 4 :Grama Niladari(GN)
 
+you can down load this Geojson files and create yuor own customized maps
+these carts are generated on dummy data.
 
 
+https://github.com/MalakaGu/Sri-lanka-maps/blob/master/git.gif
